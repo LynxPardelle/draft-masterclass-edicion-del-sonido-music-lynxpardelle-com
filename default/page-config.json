@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-edicion-del-sonido.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Edición y transformación del sonido | Lynx Pardelle",
+    "description": "Aprende a modificar una muestra con una intención concreta. Ajusta su altura, envolvente y dinámica, y combina procesos para generar una versión que ocupe otro lugar en la pieza.",
+    "canonical": "https://masterclass-edicion-del-sonido.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-diseno.webp"
+    }
+  }
+}
