@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Edición y transformación del sonido | Lynx Pardelle",
-    "description": "Aprende a modificar una muestra con una intención concreta. Ajusta su altura, envolvente y dinámica, y combina procesos para generar una versión que ocupe otro lugar en la pieza.",
+    "title": "Masterclass de edición y transformación del sonido | Lynx Pardelle",
+    "description": "Practica cómo retocar muestras y combinar EQ, compresión, gate, delay, reverb, saturación y erosión para darles otro lugar en una mezcla.",
     "canonical": "https://masterclass-edicion-del-sonido.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-edicion-del-sonido-r2-85e7582c9c07ecba.webp",
+      "title": "Masterclass de edición y transformación del sonido | Lynx Pardelle",
+      "description": "Practica cómo retocar muestras y combinar EQ, compresión, gate, delay, reverb, saturación y erosión para darles otro lugar en una mezcla.",
+      "url": "https://masterclass-edicion-del-sonido.music.lynxpardelle.com/",
+      "imageAlt": "Equipo de edición con formas de onda y audífonos."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de edición y transformación del sonido | Lynx Pardelle",
+      "description": "Practica cómo retocar muestras y combinar EQ, compresión, gate, delay, reverb, saturación y erosión para darles otro lugar en una mezcla.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-edicion-del-sonido-r2-85e7582c9c07ecba.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-edicion-del-sonido.music.lynxpardelle.com/#webpage",
+        "name": "Edición y transformación del sonido",
+        "description": "Practica cómo retocar muestras y combinar EQ, compresión, gate, delay, reverb, saturación y erosión para darles otro lugar en una mezcla.",
+        "url": "https://masterclass-edicion-del-sonido.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-edicion-del-sonido.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-edicion-del-sonido.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Edición y transformación del sonido",
+        "description": "Practica cómo retocar muestras y combinar EQ, compresión, gate, delay, reverb, saturación y erosión para darles otro lugar en una mezcla.",
+        "url": "https://masterclass-edicion-del-sonido.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-edicion-del-sonido-r2-85e7582c9c07ecba.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-edicion-del-sonido.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
